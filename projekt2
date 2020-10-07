@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> jala brat </title>
+
+</head>
+<body>
+<h1 style="text-align:center;">Naslov prve razine</h1>
+<h2>Naslov druge razine</h2>
+<h3 style="font-family:verdana;">Naslov treće razine</h3>
+<h4 style="color:blue;">Naslov četvrte razine</h4>
+<h5 style="font-size:300%;">Naslov pete razine</h5>
+<h6 title="najmanji naslov">Naslov šeste razine</h6>
+<P style="background-color:RED;FONTE-SIZE:700%"> ODLOMAKKK </p>
+<p> ovo je paragraf sa linkom <a style="background-color:aqua;" href="http://www.ss-strukovna-vvlatkovica-zd.skole.hr"> škole </a>
+<ol style="background-color:pink;">
+Dani u tjednu lol
+<li>Pon</li>
+<li>Uto</li>
+<li>Sri</li>
+</ol>
+</body>
+</html>
